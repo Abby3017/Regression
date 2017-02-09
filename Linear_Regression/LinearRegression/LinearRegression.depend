@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1486571838 source:/home/abhinav/learn/ml/Linear_Regression/LinearRegression/main.cpp
+	"linearregression.h"
+
+1486610382 /home/abhinav/learn/ml/Linear_Regression/LinearRegression/include/linearregression.h
+	<math.h>
+	<iostream>
+	<armadillo>
+
+1486610118 source:/home/abhinav/learn/ml/Linear_Regression/LinearRegression/src/linearregression.cpp
+	"linearregression.h"
+
